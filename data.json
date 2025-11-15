@@ -1,0 +1,273 @@
+[
+  {
+    "id": "guideme",
+    "name": "GuideMe",
+    "description": "Набір інструментів-посібників для модів та розробників модпаків зі зручним форматуванням Markdown та живими 3D-сценами!",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/guideme/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/guideme",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/guideme/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "guideme-20.1.11.Forge.1.20.1_UA",
+        "version": "1.20.1",
+        "loader": "Forge",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/mfDRKud3/guideme-20.1.11.jar"
+      }
+    ]
+  },
+  {
+    "id": "entangled",
+    "name": "Entangled",
+    "description": "Entangled дозволяє \"заплутати\" два блоки разом!",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/entangled/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/entangled",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/entangled/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "entangled-1.3.20-forge-mc1.20.4_UA",
+        "version": "<1.20-1.20.4>",
+        "loader": "Forge",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/rylMOguI/versions/bsoLgCTu/entangled-1.3.20-fabric-mc1.20.4.jar"
+      }
+    ]
+  },
+  {
+    "id": "enhanced-celestials",
+    "name": "EnhancedCelestials",
+    "description": "Мод, що додає нові місячні події, такі як криваві місяці та врожайні місяці!",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/enhanced-celestials/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/enhanced-celestials",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/enhanced-celestials/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "Enhanced-Celestials-fabric-1.20.1-5.0.3.1_UA",
+        "version": "1.20.1",
+        "loader": "Fabric",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/2rL16t1O/versions/bGoMMYXA/Enhanced-Celestials-fabric-1.20.1-5.0.3.1.jar"
+      }
+    ]
+  },
+  {
+    "id": "end-remastered",
+    "name": "EndRemastered",
+    "description": "Зробіть свою подорож до Краю складнішою та захопливішою з End Remastered!",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/end-remastered/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/endrem",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/end-remastered/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "fabric-end-remastered-5.2.4_UA",
+        "version": "<1.20-1.20.4>",
+        "loader": "Fabric",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/ZJTGwAND/versions/4wKvHwVW/fabric-end-remastered-5.2.4.jar"
+      }
+    ]
+  },
+  {
+    "id": "dungeonsandtaverns",
+    "name": "DungeonsandTaverns",
+    "description": "Пакет даних про структури, що додає підземелля, таверни та інші споруди, які можна знайти під час дослідження світу.",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/dungeonsandtaverns/image.jpeg",
+    "modrinthLink": "https://modrinth.com/datapack/dungeons-and-taverns",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/dungeonsandtaverns/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "Dungeons_and_Taverns-1.20.1.Forge-v3.0.3.fix-UA",
+        "version": "1.20.1",
+        "loader": "Forge",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/tpehi7ww/versions/ojHpWOrz/dungeons-and-taverns-3.0.3.f.jar"
+      }
+    ]
+  },
+  {
+    "id": "coldsweat",
+    "name": "ColdSweat",
+    "description": "Додає до Minecraft відповідну та складну температурну систему, та багато іншого!",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/coldsweat/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/cold-sweat",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/coldsweat/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "ColdSweat-Forge-1.20.1-2.4-b03d-UA",
+        "version": "1.20.1",
+        "loader": "Forge",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/uXhSmPjd/versions/vaPoPYct/ColdSweat-2.4-b03d.jar"
+      }
+    ]
+  },
+  {
+    "id": "caelusapi",
+    "name": "CaelusApi",
+    "description": "Coremod та API, що надають розробникам доступ до механіки польоту елітри через атрибут сутності.",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/caelusapi/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/caelus",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/caelusapi/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "CaelusAPI_Forge_1.20.1-3.2.0_UA",
+        "version": "1.20.1",
+        "loader": "Forge",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar"
+      }
+    ]
+  },
+  {
+    "id": "burnt",
+    "name": "Burnt",
+    "description": "Модифікація для покращення вогню від Vanilla. Якщо підпалити її, вона згорить. Створіть свій світ і спаліть його!",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/burnt/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/burnt",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/burnt/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "Burnt_Forge_1.20.1-1.9.0.3-UA",
+        "version": "1.20.1",
+        "loader": "Forge",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/tsc9D2wh/versions/c5Zt951Z/burnt-1.9.0.3-forge-1.20.1.jar"
+      }
+    ]
+  },
+  {
+    "id": "betternether",
+    "name": "BetterNether",
+    "description": "Більше біомів, більше мобів, більше інструментів для вогняного виміру",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/betternether/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/betternether",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/betternether/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "Better-Nether-9.0.10_UA",
+        "version": "1.20.1",
+        "loader": "Fabric",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/MpzVLzy5/versions/IG7kgtJH/better-nether-9.0.10.jar"
+      }
+    ]
+  },
+  {
+    "id": "betterend",
+    "name": "BetterEnd",
+    "description": "Нові біоми, таємничі ритуали та моби для вашого Енду",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/betterend/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/betterend",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/betterend/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "BetterEnd-fabric-1.20.1-4.0.11_UA",
+        "version": "1.20.1",
+        "loader": "Fabric",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/gc8OEnCC/versions/7QwyTILr/better-end-4.0.11.jar"
+      }
+    ]
+  },
+  {
+    "id": "balm",
+    "name": "Balm",
+    "description": "Шар абстракції для мультиплатформних модів",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/balm/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/balm",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/balm/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "Balm-Fabric-1.20.1-7.3.31_U",
+        "version": "1.20.1",
+        "loader": "Fabric",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/MBAkmtvl/versions/x05ZVyBJ/balm-fabric-1.20.1-7.3.31.jar"
+      }
+    ]
+  },
+  {
+    "id": "almostunified",
+    "name": "Almost Unified",
+    "description": "Його мета — мати один домінантний ресурс для кожного налаштованого тегу та змусити всі рецепти використовувати цей домінантний запис.",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/almostunified/image.jpeg",
+    "modrinthLink": "https://modrinth.com/mod/almost-unified",
+    "langFiles": [
+      {
+        "author": "fehykitop",
+        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/almostunified/lang/fehykitop.json"
+      }
+    ],
+    "versions": [
+      {
+        "name": "AlmostUnified-1.20.1-Forge-0.10.0-UA",
+        "version": "1.20.1",
+        "loader": "Forge",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/sdaSaQEz/versions/1OakfHy9/almostunified-forge-1.20.1-0.10.0.jar"
+      },
+      {
+        "name": "AlmostUnified-1.20.1-Fabric-0.10.0-UA",
+        "version": "1.20.1",
+        "loader": "Fabric",
+        "author": "fehykitop",
+        "link": "https://cdn.modrinth.com/data/sdaSaQEz/versions/mHSiezhN/almostunified-fabric-1.20.1-0.10.0.jar"
+      }
+    ]
+  }
+]
