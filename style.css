@@ -1,3 +1,14 @@
+/* :root — це головний елемент, де ми зберігаємо змінні */
+:root {
+    --primary-color: #4A55A2; /* Приємний синьо-фіолетовий */
+    --primary-hover: #3A448A;
+    --background-color: #F8F9FA; /* Трохи тепліший білий */
+    --card-background: #FFFFFF;
+    --border-color: #E2E8F0;
+    --shadow-color: rgba(0, 0, 0, 0.05);
+    --text-color: #4A5568;
+    --heading-color: #2D3748;
+}
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 20px;
