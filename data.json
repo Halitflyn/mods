@@ -3,12 +3,12 @@
     "id": "guideme",
     "name": "GuideMe",
     "description": "Набір інструментів-посібників для модів та розробників модпаків зі зручним форматуванням Markdown та живими 3D-сценами!",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/guideme/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/guideme/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/guideme",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/guideme/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/guideme/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -25,12 +25,12 @@
     "id": "entangled",
     "name": "Entangled",
     "description": "Entangled дозволяє \"заплутати\" два блоки разом!",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/entangled/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/entangled/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/entangled",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/entangled/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/entangled/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -47,12 +47,12 @@
     "id": "enhanced-celestials",
     "name": "EnhancedCelestials",
     "description": "Мод, що додає нові місячні події, такі як криваві місяці та врожайні місяці!",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/enhanced-celestials/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/enhanced-celestials/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/enhanced-celestials",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/enhanced-celestials/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/enhanced-celestials/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -69,12 +69,12 @@
     "id": "end-remastered",
     "name": "EndRemastered",
     "description": "Зробіть свою подорож до Краю складнішою та захопливішою з End Remastered!",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/end-remastered/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/end-remastered/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/endrem",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/end-remastered/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/end-remastered/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -91,12 +91,12 @@
     "id": "dungeonsandtaverns",
     "name": "DungeonsandTaverns",
     "description": "Пакет даних про структури, що додає підземелля, таверни та інші споруди, які можна знайти під час дослідження світу.",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/dungeonsandtaverns/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/dungeonsandtaverns/image.jpeg",
     "modrinthLink": "https://modrinth.com/datapack/dungeons-and-taverns",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/dungeonsandtaverns/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/dungeonsandtaverns/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -113,12 +113,12 @@
     "id": "coldsweat",
     "name": "ColdSweat",
     "description": "Додає до Minecraft відповідну та складну температурну систему, та багато іншого!",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/coldsweat/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/coldsweat/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/cold-sweat",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/coldsweat/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/coldsweat/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -135,12 +135,12 @@
     "id": "caelusapi",
     "name": "CaelusApi",
     "description": "Coremod та API, що надають розробникам доступ до механіки польоту елітри через атрибут сутності.",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/caelusapi/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/caelusapi/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/caelus",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/caelusapi/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/caelusapi/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -157,12 +157,12 @@
     "id": "burnt",
     "name": "Burnt",
     "description": "Модифікація для покращення вогню від Vanilla. Якщо підпалити її, вона згорить. Створіть свій світ і спаліть його!",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/burnt/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/burnt/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/burnt",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/burnt/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/burnt/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -179,12 +179,12 @@
     "id": "betternether",
     "name": "BetterNether",
     "description": "Більше біомів, більше мобів, більше інструментів для вогняного виміру",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/betternether/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/betternether/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/betternether",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/betternether/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/betternether/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -201,12 +201,12 @@
     "id": "betterend",
     "name": "BetterEnd",
     "description": "Нові біоми, таємничі ритуали та моби для вашого Енду",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/betterend/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/betterend/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/betterend",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/betterend/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/betterend/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -223,12 +223,12 @@
     "id": "balm",
     "name": "Balm",
     "description": "Шар абстракції для мультиплатформних модів",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/balm/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/balm/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/balm",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/balm/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/balm/lang/fehykitop.json"
       }
     ],
     "versions": [
@@ -245,12 +245,12 @@
     "id": "almostunified",
     "name": "Almost Unified",
     "description": "Його мета — мати один домінантний ресурс для кожного налаштованого тегу та змусити всі рецепти використовувати цей домінантний запис.",
-    "imageUrl": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/almostunified/image.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/almostunified/image.jpeg",
     "modrinthLink": "https://modrinth.com/mod/almost-unified",
     "langFiles": [
       {
         "author": "fehykitop",
-        "url": "https://raw.githubusercontent.com/halitflyn/ua/main/mods/almostunified/lang/fehykitop.json"
+        "url": "https://raw.githubusercontent.com/halitflyn/mods/main/mods/almostunified/lang/fehykitop.json"
       }
     ],
     "versions": [
