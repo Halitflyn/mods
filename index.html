@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Українські переклади модів</title>
+    
+    <meta name="keywords" content="українські переклади модів, Minecraft mods ua, Modrinth переклади, моди українською">
+    <meta name="description" content="Каталог українських перекладів модів для Minecraft з Modrinth. Завантажуй та об'єднуй переклади легко!">
+    <meta name="author" content="Halitflyn">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://halitflyn.github.io/ua/">
+    <meta property="og:title" content="Українські переклади модів">
+    <meta property="og:description" content="Каталог українських перекладів модів для Minecraft з Modrinth. Завантажуй та об'єднуй переклади легко!">
+    <meta property="og:image" content="https://raw.githubusercontent.com/halitflyn/ua/main/image/inf1.jpeg">
+    
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://halitflyn.github.io/ua/">
+    <meta property="twitter:title" content="Українські переклади модів">
+    <meta property="twitter:description" content="Каталог українських перекладів модів для Minecraft з Modrinth. Завантажуй та об'єднуй переклади легко!">
+    <meta property="twitter:image" content="https://raw.githubusercontent.com/halitflyn/ua/main/image/inf1.jpeg">
+    
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+    
+    <link rel="stylesheet" href="style.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+</head>
+<body>
+    <h1>🌐 Українські переклади модів</h1>
+    
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="Пошук по назві мода..." aria-label="Пошук модів">
+        <select id="filter-version" aria-label="Фільтр по версії">
+            <option value="">Всі версії</option>
+        </select>
+        <select id="filter-core" aria-label="Фільтр по завантажувачу">
+            <option value="">Всі ядра</option>
+        </select>
+        <select id="filter-author" aria-label="Фільтр по автору">
+            <option value="">Всі автори</option>
+        </select>
+        <button id="refresh-data" aria-label="Оновити дані" title="Оновити дані">🔄</button>
+        <button class="theme-toggle" aria-label="Перемкнути тему" title="Перемкнути тему">🌙</button>
+        <button id="combine-open" aria-label="Об'єднати файли" title="Об'єднати файли">Об'єднати</button>
+    </div>
+    
+    <div id="mod-list" class="mod-list">
+        </div>
+    
+    <div id="select-modal" class="modal" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <span class="close" aria-label="Закрити">&times;</span>
+            <h2 id="modal-title">Виберіть переклад</h2>
+            <div id="select-list"></div>
+        </div>
+    </div>
+    
+    <div id="combine-modal" class="modal" role="dialog" aria-labelledby="combine-title">
+        <div class="modal-content">
+            <span class="close" aria-label="Закрити">&times;</span>
+            <h2 id="combine-title">Об'єднати файли</h2>
+            <p>Виберіть .jar файл мода та .json файл перекладу:</p>
+            <input type="file" id="mod-file" accept=".jar" aria-label="Виберіть JAR файл мода">
+            <input type="file" id="json-file" accept=".json" aria-label="Виберіть JSON файл перекладу">
+            <button onclick="combineFiles()" style="margin-top: 20px;">Об'єднати</button>
+        </div>
+    </div>
+    
+    <div id="help-modal" class="modal" role="dialog" aria-labelledby="help-title">
+        <div class="modal-content">
+            <span class="close" aria-label="Закрити">&times;</span>
+            <h2 id="help-title">📚 Допомога</h2>
+            <div class="help-content">
+                <div class="step">
+                    <h3>🎯 Як використовувати сайт</h3>
+                    <p>1. Знайдіть потрібний мод у списку</p>
+                    <p>2. Натисніть кнопку "Вибрати переклад"</p>
+                    <p>3. Виберіть потрібну версію та автора перекладу</p>
+                    <p>4. Завантажте обидва файли</p>
+                </div>
+                
+                <div class="step">
+                    <h3>🔧 Як об'єднати файли</h3>
+                    <p>1. Натисніть кнопку "Об'єднати файли"</p>
+                    <p>2. Виберіть .jar файл мода</p>
+                    <p>3. Виберіть .json файл перекладу</p>
+                    <p>4. Натисніть "Об'єднати"</p>
+                    <p>5. Завантажте готовий файл</p>
+                </div>
+                
+                <div class="step">
+                    <h3>📝 Як додати свій переклад</h3>
+                    <p>1. Перейдіть на <a href="https://github.com/halitflyn/ua" target="_blank">GitHub репозиторій</a></p>
+                    <p>2. Створіть issue з описом вашого перекладу</p>
+                    <p>3. Або зробіть pull request з вашими файлами</p>
+                </div>
+                
+                <div class="step">
+                    <h3>❓ Поширені питання</h3>
+                    <p><strong>Q: Чому не завантажується мод?</strong><br>
+                    A: Перевірте, чи правильно вибрали файли та чи не заблокував їх браузер</p>
+                    
+                    <p><strong>Q: Як встановити переклад?</strong><br>
+                    A: Помістіть .json файл у папку мода або використайте функцію об'єднання</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Halitflyn. <a href="https://github.com/halitflyn/ua">GitHub репозиторій</a></p>
+        <p style="margin-top: 15px; font-size: 16px; opacity: 0.9;">
+            🌐 Каталог українських перекладів модів для Minecraft
+        </p>
+        <button class="help-button" aria-label="Допомога" title="Допомога">?</button>
+    </footer>
+    
+    <script src="script.js"></script>
+
+</body>
+</html>
