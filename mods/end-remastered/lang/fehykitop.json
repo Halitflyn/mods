@@ -1,0 +1,79 @@
+{
+    "item.endrem.old_eye": "Старе око",
+    "item.endrem.old_eye.description": "Легенди кажуть, що це око належало одному з великих піщаних червів.",
+
+    "item.endrem.rogue_eye": "Хитре око",
+    "item.endrem.rogue_eye.description": "Вважається, що це око дало нашим предкам знання про редстоун.",
+
+    "item.endrem.nether_eye": "Око Незеру",
+    "item.endrem.nether_eye.description": "Його загубив демон у битві між Ефіром і Незером.",
+
+    "item.endrem.cold_eye": "Холодне око",
+    "item.endrem.cold_eye.description": "Один із останніх артефактів, залишених крижанами перед їхнім раптовим зникненням зі світу.",
+
+    "item.endrem.magical_eye": "Магічне око",
+    "item.endrem.magical_eye.description": "Без цього ока заклинач не має сили.",
+
+    "item.endrem.black_eye": "Чорне око",
+    "item.endrem.black_eye.description": "Пірати кажуть, що воно дало зір легендарній Чорній Перлині.",
+
+    "item.endrem.lost_eye": "Загублене око",
+    "item.endrem.lost_eye.description": "Кажуть, що його викували перші ковалі епохи.",
+
+    "item.endrem.wither_eye": "Зів’яле око",
+    "item.endrem.wither_eye.description": "Воно було свідком руйнування. Можливо, також бачило, як зникли твої речі.",
+
+    "item.endrem.guardian_eye": "Око охоронця",
+    "item.endrem.guardian_eye.description": "Воно бачило, як багато воїнів потонули в глибинах моря.",
+
+    "item.endrem.corrupted_eye": "Скверне око",
+    "item.endrem.corrupted_eye.description": "Око жадібного короля, яке згасло в самотності. Легенда каже, що воно принесе своєму власнику нескінченне багатство.",
+
+    "item.endrem.witch_eye": "Око відьми",
+    "item.endrem.witch_eye.description": "Вважається, що ця зіниця бачила стародавні рецепти створення, втрачені з часом.",
+
+    "item.endrem.witch_pupil": "Зіниця відьми",
+
+    "block.endrem.ancient_portal_frame": "Рама стародавнього порталу",
+
+    "itemGroup.endremTab": "Енд Ремастерований",
+
+    "block.portal_open_sound": "Портал відкрито",
+    "block.portal_open_sound.sub": "Портал відкрито",
+
+    "advancements.main.root.title": "Початок пригод",
+    "advancements.main.root.description": "Отримай своє перше око.",
+
+    "advancements.main.old_eye.title": "Шукач скарбів",
+    "advancements.main.old_eye.description": "Отримай своє перше старе око.",
+
+    "advancements.main.rogue_eye.title": "Ласкаво просимо до джунглів",
+    "advancements.main.rogue_eye.description": "Отримай своє перше хитре око.",
+
+    "advancements.main.nether_eye.title": "Погляд у відчай",
+    "advancements.main.nether_eye.description": "Отримай своє перше око Незеру.",
+
+    "advancements.main.cold_eye.title": "Свіжий погляд",
+    "advancements.main.cold_eye.description": "Отримай своє перше холодне око.",
+
+    "advancements.main.corrupted_eye.title": "Засип мене смарагдами",
+    "advancements.main.corrupted_eye.description": "Отримай своє перше скверне око.",
+
+    "advancements.main.magical_eye.title": "Падіння чаклуна",
+    "advancements.main.magical_eye.description": "Отримай своє перше магічне око.",
+
+    "advancements.main.black_eye.title": "Арр, де мій корабель?",
+    "advancements.main.black_eye.description": "Отримай своє перше чорне око.",
+
+    "advancements.main.lost_eye.title": "Потрібна карта?",
+    "advancements.main.lost_eye.description": "Отримай своє перше загублене око.",
+
+    "advancements.main.wither_eye.title": "Зів’яле, хочеш чи ні",
+    "advancements.main.wither_eye.description": "Отримай своє перше зів’яле око.",
+
+    "advancements.main.guardian_eye.title": "Хто тепер охороняє храм?",
+    "advancements.main.guardian_eye.description": "Отримай своє перше око охоронця.",
+
+    "advancements.main.witch_eye.title": "Жарт чи частування?",
+    "advancements.main.witch_eye.description": "Отримай своє перше око відьми."
+}
